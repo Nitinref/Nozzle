@@ -1,5 +1,9 @@
 # Per-Customer AI Cost Radar
 
+<p align="center">
+  <img src="public/Nozzle.png" alt="Nozzle" />
+</p>
+
 Hackathon demo for attributing AI spend to individual customers and surfacing anomalies with SigNoz.
 
 ## SigNoz Field Requirements
