@@ -1,0 +1,31 @@
+# Environment and secrets
+.env
+.env.*
+backend/.env
+frontend/.env
+!backend/.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+backend/.venv/
+
+# Node / frontend build outputs
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+
+# Logs
+*.log
+*.err.log
+backend.log
+backend.err.log
+frontend.log
+frontend.err.log
+
+# Generated SigNoz / Foundry artifacts
+pours/
+samples/
+.docker-config/
